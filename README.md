@@ -21,7 +21,7 @@
 
 **RF**
 
--- O usuário deve poder atualizar seu nome, email, e senha;
+- O usuário deve poder atualizar seu nome, email, e senha;
 
 **RN**
 
